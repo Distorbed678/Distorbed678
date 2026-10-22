@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @Distorbed678
-- 👀 I’m interested in Unity, elden ring, rust and c
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me (@distorbed) on discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am chonically online
+- Hi, I’m @Distorbed678
+
